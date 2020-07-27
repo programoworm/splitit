@@ -2,9 +2,12 @@
 A python script to **split a PDF file into its pages**.  
 ## Working    
 SPLITIT splits the pages of a pdf file and renames the files with the following syntax  
+
 >SerialNo_Initials.pdf  
+
 SPLITIT will ask for the initial SerialNo and name of a text file which will contain the names of people. SPLITIT will take initials from the names given in the text file.  
-The names in the text file should be like the following:```  
+The names in the text file should be like the following:
+```  
 Raghuram Rajan  
 Gunjan Roy  
 Prakash Raj  
