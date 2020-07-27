@@ -33,4 +33,5 @@ Now, make sure the text file containing the names and the whole pdf is in the sa
 Then run the script by,  
 `python splitit.py`  
 Then type the name of the pdf,text file and the initial serial number and it would work like a charm.  
+
 **Feel free to change the code as your need.**
