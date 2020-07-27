@@ -1,10 +1,10 @@
-#SPLITIT  
-#=======
+# SPLITIT  
+# =======
 
 A python script to **split a PDF file into its pages**.
 
-##Working  
-##-------  
+## Working  
+## -------  
 SPLITIT splits the pages of a pdf file and renames the files with the following syntax
 
 >SerialNo_Initials.pdf
@@ -31,8 +31,8 @@ Let's say the initial serial number is 1001. Then, the splitted PDFs will be nam
 -.  
 -etc  
 
-##Usage  
-##-----  
+## Usage  
+## -----  
 Simply clone the repo or download the zip file. After downloading open the directory by,  
 `cd splitit-master`  
 Make sure you have python3 interpreter and PyPDF2 installed. If not then install PyPDF2 by,  
